@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PROJECT AETHER",
+  "description": "A next-generation AI workspace featuring holographic UI, real-time collaboration, 3D visualization, and Gemini-powered intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
